@@ -1,0 +1,9 @@
+D:\tfsRushiSrv\Individual\DOTNET\v4.5\Business\TwitRp\Data.SqlServer\bin\Debug\netstandard2.0\TwitRp.Data.SqlServer.deps.json
+D:\tfsRushiSrv\Individual\DOTNET\v4.5\Business\TwitRp\Data.SqlServer\bin\Debug\netstandard2.0\TwitRp.Data.SqlServer.dll
+D:\tfsRushiSrv\Individual\DOTNET\v4.5\Business\TwitRp\Data.SqlServer\bin\Debug\netstandard2.0\TwitRp.Data.SqlServer.pdb
+D:\tfsRushiSrv\Individual\DOTNET\v4.5\Business\TwitRp\Data.SqlServer\obj\Debug\netstandard2.0\TwitRp.Data.SqlServer.csprojAssemblyReference.cache
+D:\tfsRushiSrv\Individual\DOTNET\v4.5\Business\TwitRp\Data.SqlServer\obj\Debug\netstandard2.0\TwitRp.Data.SqlServer.AssemblyInfoInputs.cache
+D:\tfsRushiSrv\Individual\DOTNET\v4.5\Business\TwitRp\Data.SqlServer\obj\Debug\netstandard2.0\TwitRp.Data.SqlServer.AssemblyInfo.cs
+D:\tfsRushiSrv\Individual\DOTNET\v4.5\Business\TwitRp\Data.SqlServer\obj\Debug\netstandard2.0\TwitRp.Data.SqlServer.csproj.CoreCompileInputs.cache
+D:\tfsRushiSrv\Individual\DOTNET\v4.5\Business\TwitRp\Data.SqlServer\obj\Debug\netstandard2.0\TwitRp.Data.SqlServer.dll
+D:\tfsRushiSrv\Individual\DOTNET\v4.5\Business\TwitRp\Data.SqlServer\obj\Debug\netstandard2.0\TwitRp.Data.SqlServer.pdb

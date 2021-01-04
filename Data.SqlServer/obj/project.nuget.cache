@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "67oa3kTKn8FzxjHtcMGDb2s/jFq6TmiZUkEuw/KdyP+Kt7jpo7VID3p581F4ONcbLWB0RF2dleT3ZIH/GR7VHQ==",
+  "success": true,
+  "projectFilePath": "D:\\TempProjects1\\TwitRp\\Data.SqlServer\\TwitRp.Data.SqlServer.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "D:\\Users\\Admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
